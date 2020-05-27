@@ -1,1 +1,2 @@
 Pushes triggers CI on Jenkins with commit. -- 27May2020|11:16 AM IST
+Added POLL SCM for every 2 minutes -- 27May2020|11:20 AM IST
