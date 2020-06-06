@@ -1,1 +1,3 @@
 Merge File
+New Text
+
